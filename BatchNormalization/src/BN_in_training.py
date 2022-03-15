@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-# @file name  : BN_in_training.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2020-05-19
-# @brief      : 训练时的BN层
-"""
-
 import os
 import numpy as np
 import torch.nn as nn
