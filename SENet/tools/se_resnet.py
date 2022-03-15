@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-# @file name  : se_resnet.py
-# @author     : https://github.com/moskomule/senet.pytorch
-# @date       : 2020-08-07
-# @brief      : se_resnet 模型搭建
-"""
 import torch
 import torch.nn as nn
 from torch.hub import load_state_dict_from_url
