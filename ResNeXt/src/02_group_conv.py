@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-# @file name  : 02_group_conv.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2020-07-17
 # @brief      : 分组卷积
 """
 import torch
