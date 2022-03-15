@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-# @file name  : train_densenet.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2020-07-29
-# @brief      : densenet-bc training on cifar10
-"""
-
 import os
 from datetime import datetime
 import numpy as np
