@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-# @file name  : common_tools.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2020-06-23
-# @brief      : 通用函数
-"""
 import numpy as np
 import torch
 import torch.nn as nn
