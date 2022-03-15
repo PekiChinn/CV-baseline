@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 # @file name  : my_dataset.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2019-02-14
-# @brief      : 数据集Dataset定义
 """
 import os
 import torch
