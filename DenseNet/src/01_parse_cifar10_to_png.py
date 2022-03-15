@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-# @file name  : parse_cifar10_to_png.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2020-02-29
-# @brief      : 解析cifar10数据
-"""
-
 import numpy as np
 import os
 import sys
