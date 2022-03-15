@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 # @file name  : BN_visual.py
-# @author     : TingsongYu https://github.com/TingsongYu，代码来自莫烦：
- https://morvanzhou.github.io/tutorials/machine-learning/torch/5-04-batch-normalization/
-# @date       : 2020-05-18
 # @brief      : BN层对数据分布对影响
 """
 
