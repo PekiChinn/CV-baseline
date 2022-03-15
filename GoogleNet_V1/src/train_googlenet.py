@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-# @file name  : train_googlenet.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2020-04-28
-# @brief      : googlenet traning
-"""
 
 import os
 import numpy as np
