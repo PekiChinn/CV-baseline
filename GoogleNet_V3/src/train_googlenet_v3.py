@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-# @file name  : train_googlenet.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2020-06-01
-# @brief      : googlenet-v3 traning
-"""
-
 import os
 import numpy as np
 import torch.nn as nn
