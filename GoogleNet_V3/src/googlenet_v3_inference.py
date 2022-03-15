@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-# @file name  : googlenet-v3-inference.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2020-06-01
-# @brief      : inference demo
-"""
-
 import os
 os.environ['NLS_LANG'] = 'SIMPLIFIED CHINESE_CHINA.UTF8'
 import time
