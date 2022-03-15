@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-# @file name  : cifar10_dataset.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2020-02-29
-# @brief      : 构建cifar10 dataset
-"""
 import os
 from PIL import Image
 from torch.utils.data import Dataset
