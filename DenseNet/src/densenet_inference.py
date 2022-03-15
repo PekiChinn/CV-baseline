@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-# @file name  : densenet-inference.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2020-07-28
-# @brief      : inference demo
-"""
-
 import os
 os.environ['NLS_LANG'] = 'SIMPLIFIED CHINESE_CHINA.UTF8'
 import time
