@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-# @file name  : my_dataset.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2019-02-14
 # @brief      : NFCM数据集读取：https://www.kaggle.com/c/the-nature-conservancy-fisheries-monitoring/data
 """
 import numpy as np
