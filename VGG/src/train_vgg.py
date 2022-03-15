@@ -5,13 +5,6 @@
 # @date        : 2021/12/7
 # @brief       :
 """
-# -*- coding: utf-8 -*-
-"""
-# @file name  : train_vgg.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2020-04-28
-# @brief      : vgg traning
-"""
 
 import os
 import numpy as np
