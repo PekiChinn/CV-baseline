@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-# @file name  : se_resnet50-inference.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2020-08-07
-# @brief      : inference demo
-"""
-
 import os
 os.environ['NLS_LANG'] = 'SIMPLIFIED CHINESE_CHINA.UTF8'
 import time
