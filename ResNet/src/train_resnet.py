@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-# @file name  : train_resnet.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2020-06-23
-# @brief      : resnet training on cifar10
-"""
-
 import os
 from datetime import datetime
 import numpy as np
