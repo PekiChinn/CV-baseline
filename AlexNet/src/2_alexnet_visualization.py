@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-# @file name  : alexnet_visualization.py
-# @author     : TingsongYu https://github.com/TingsongYu
-# @date       : 2020-02-14
-# @brief      : alexnet_visualization
-"""
 import os
 import torch
 import torch.nn as nn
